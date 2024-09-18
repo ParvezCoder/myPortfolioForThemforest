@@ -619,7 +619,7 @@ export default function NavigationBar() {
                 <img src="gm.jpg" className="w-full sm:h-60 object-cover" />
 
                 <div className="p-4">
-                  <h4 className="text-gray-800 text-base font-bold">Engr. Ghulam Mustfa</h4>
+                  <h4 className="text-gray-800 text-base font-bold">Engr. Jennifer</h4>
                   <p className="text-gray-600 text-xs mt-1">Chief Executive Officer (CEO)</p>
 
                   <div className="mt-4">
@@ -659,7 +659,7 @@ export default function NavigationBar() {
                 <img src="mushi.jpg" className="w-full sm:h-60 object-cover" />
 
                 <div className="p-4">
-                  <h4 className="text-gray-800 text-base font-bold">Engr. Mushahid Ali</h4>
+                  <h4 className="text-gray-800 text-base font-bold">Engr. Elizabeth</h4>
                   <p className="text-gray-500 text-xs mt-1">Director of Software Development</p>
 
                   <div className="mt-4">
@@ -701,7 +701,7 @@ export default function NavigationBar() {
                 <img src="shabeer.jpg" className="w-full sm:h-60 object-cover" />
 
                 <div className="p-4">
-                  <h4 className="text-gray-800 text-base font-bold">Engr. Shabeer Ahmed</h4>
+                  <h4 className="text-gray-800 text-base font-bold">Engr. Jessica</h4>
                   <p className="text-gray-500 text-xs mt-1">Director of Technology</p>
 
                   <div className="mt-4">
@@ -742,7 +742,7 @@ export default function NavigationBar() {
                 <img src="me.jpg" className="w-full sm:h-60 object-cover" />
 
                 <div className="p-4">
-                  <h4 className="text-gray-800 text-base font-bold">Engr. Parvez AHmed</h4>
+                  <h4 className="text-gray-800 text-base font-bold">Engr. Sandra</h4>
                   <p className="text-gray-500 text-xs mt-1">Director of HR</p>
 
                   <div className="mt-4">
