@@ -28,7 +28,7 @@ export default function NavigationBar() {
 
               </h1>
               <h2 className="text-lg sm:text-xl md:text-2xl lg:text-3xl font-semibold mt-2">
-                <span className="word word5">I'm a</span>{" "}
+                <span className="word word5">I am a</span>{" "}
                 <span className="word word5 text-blue-600">Front-End Developer</span>
               </h2>
 
@@ -95,7 +95,8 @@ export default function NavigationBar() {
         {/* ////////////////////////////////////////////////////   Start  Techmology  ////////////////////////////////////////////////////////////////////////  */}
         <div className="bg-gray-100 md:px-10 px-4 py-12  font-[sans-serif] text-center">
           <h2 className="text-4xl font-extrabold text-gray-800 mb-5 ">Top Technology Trends in 2024</h2>
-          <p className="lg:w-2/3 mx-auto leading-relaxed text-base mb-20" >The world is rapidly changing and moving towards AI and robotics." If you're looking for a more nuanced phrase, you might try: "The world is evolving at a rapid pace, increasingly leaning towards AI and robotics.</p>
+          <p className="lg:w-2/3 mx-auto leading-relaxed text-base mb-20" >The world is rapidly changing and moving towards AI and robotics. If you are looking for 
+          a more nuanced phrase, you might try, The world is evolving at a rapid pace, increasingly leaning towards AI and robotics.</p>
 
           <div className="max-md:max-w-lg mx-auto text-center">
             <div className="grid grid-cols-1 md:grid-cols-2 lg:grid-cols-3 gap-6">
@@ -704,7 +705,7 @@ export default function NavigationBar() {
                   <p className="text-gray-500 text-xs mt-1">Director of Technology</p>
 
                   <div className="mt-4">
-                    <p className="text-gray-600 text-sm leading-relaxed">Oversees an organization's technological initiatives, ensuring
+                    <p className="text-gray-600 text-sm leading-relaxed">Oversees an organizations technological initiatives, ensuring
                       alignment with business goals and driving innovation through strategic IT management.</p>
                   </div>
 
