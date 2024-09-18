@@ -20,7 +20,7 @@ export default function About() {
       {/* ////////////////////////// end Heroo section  /////////////////////////////////////// */}
       {/* ////////////////////////// About section  /////////////////////////////////////// */}
 
-      <div className="bg-gray-50 w-full py-24 px-24 rounded font-[sans-serif] overflow-hidden">
+      <div className="bg-gray-50 w-full py-4 px-4 md:p-10 lg:p-24 rounded font-[sans-serif] overflow-hidden">
         <div className="grid md:grid-cols-2 lg:grid-cols-3 gap-8 items-center">
           <div className="lg:col-span-2 py-10 px-2 text-justify">
             <h1 className="text-gray-800 text-3xl font-bold">ReXon Solution </h1>
@@ -238,7 +238,7 @@ export default function About() {
               <img src="gm.jpg" className="w-full sm:h-60 object-cover" />
 
               <div className="p-4">
-                <h4 className="text-gray-800 text-base font-bold">Engr. Engr. Jennifer</h4>
+                <h4 className="text-gray-800 text-base font-bold">Engr. Ghulam Mustfa</h4>
                 <p className="text-gray-600 text-xs mt-1">Chief Executive Officer (CEO)</p>
 
                 <div className="mt-4">
@@ -278,7 +278,7 @@ export default function About() {
               <img src="mushi.jpg" className="w-full sm:h-60 object-cover" />
 
               <div className="p-4">
-                <h4 className="text-gray-800 text-base font-bold">Engr. Elizabeth</h4>
+                <h4 className="text-gray-800 text-base font-bold">Engr. Mushahid Ali</h4>
                 <p className="text-gray-500 text-xs mt-1">Director of Software Development</p>
 
                 <div className="mt-4">
@@ -320,11 +320,11 @@ export default function About() {
               <img src="shabeer.jpg" className="w-full sm:h-60 object-cover" />
 
               <div className="p-4">
-                <h4 className="text-gray-800 text-base font-bold">Engr. Jessica</h4>
+                <h4 className="text-gray-800 text-base font-bold">Engr. Shabeer Ahmed</h4>
                 <p className="text-gray-500 text-xs mt-1">Director of Technology</p>
 
                 <div className="mt-4">
-                  <p className="text-gray-600 text-sm leading-relaxed">Oversees an organizations technological initiatives, ensuring
+                  <p className="text-gray-600 text-sm leading-relaxed">Oversees an organization technological initiatives, ensuring
                     alignment with business goals and driving innovation through strategic IT management.</p>
                 </div>
 
@@ -361,7 +361,7 @@ export default function About() {
               <img src="me.jpg" className="w-full sm:h-60 object-cover" />
 
               <div className="p-4">
-                <h4 className="text-gray-800 text-base font-bold">Engr. Sandra</h4>
+                <h4 className="text-gray-800 text-base font-bold">Engr. Parvez AHmed</h4>
                 <p className="text-gray-500 text-xs mt-1">Director of HR</p>
 
                 <div className="mt-4">
